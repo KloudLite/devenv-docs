@@ -7,5 +7,14 @@ The inner development loop is the process a developer takes from writing their c
 
 <figure><img src="../.gitbook/assets/monolith-loop.webp" alt=""><figcaption></figcaption></figure>
 
+### How does MicroServices change your inner loop?
+
+With microservices, developers now have to manage external dependencies, builds, and implement orchestration configuration. All of these pieces add time to the dev loop and make the developer less productive.
+
+With a slow development loop, the developer spends less time coding and more time toiling over configuration scripts and waiting.
+
+\
+
+
 
 
