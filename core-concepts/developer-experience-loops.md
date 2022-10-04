@@ -11,4 +11,6 @@ The outer dev loop is _everything else_ that happens leading up to release. It i
 \
 
 
+<figure><img src="../.gitbook/assets/devloops.png" alt=""><figcaption></figcaption></figure>
+
 ### &#x20;
