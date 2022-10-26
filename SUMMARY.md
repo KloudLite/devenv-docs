@@ -16,7 +16,7 @@
 
 * [Developer Experience loops](core-concepts/developer-experience-loops.md)
 * [Inner Dev Loop](core-concepts/inner-dev-loop.md)
-* [Development in remote env](core-concepts/development-in-remote-env.md)
+* [Remote Local](core-concepts/remote-local.md)
 * [Config & Secret Management](core-concepts/config-and-secret-management.md)
 * [Self Managed Services](core-concepts/self-managed-services.md)
 * [Development Inner Loops](core-concepts/development-inner-loops.md)
@@ -24,18 +24,19 @@
 ## Reference
 
 * [Apps](reference/apps.md)
-* [Lambdas](reference/lambdas.md)
 * [Self Managed Services](reference/self-managed-services.md)
 * [Configs & Secrets](reference/configs-and-secrets.md)
 * [Domain Management](reference/domain-management.md)
 * [Routing](reference/routing.md)
+* [Primary Environments](reference/primary-environments.md)
+* [Derived Environments](reference/derived-environments.md)
 * [kl Cli](reference/kl-cli/README.md)
-  * [Context Management](reference/kl-cli/context-management.md)
+  * [Derived Environments](reference/kl-cli/derived-environments.md)
   * [Config Reference](reference/kl-cli/config-reference.md)
   * [Configs & Secrets](reference/kl-cli/configs-and-secrets.md)
   * [Managed Services](reference/kl-cli/managed-services.md)
-  * [Wireguard Device](reference/kl-cli/wireguard-device.md)
-  * [Service Intercepts](reference/kl-cli/service-intercepts.md)
+  * [Tunnel](reference/kl-cli/tunnel.md)
+  * [Service Intercept](reference/kl-cli/service-intercept.md)
 
 ## Attach Compute
 
@@ -48,7 +49,6 @@
   * [Others... ?](attach-compute/bring-your-own-compute/others....md)
 * [CICD](attach-compute/cicd.md)
 * [Workloads](attach-compute/workloads.md)
-* [Lambdas](attach-compute/lambdas.md)
 * [Loadbalancers](attach-compute/loadbalancers.md)
 
 ## Security & Compliance
