@@ -18,7 +18,7 @@
 * [Inner Dev Loop](core-concepts/inner-dev-loop.md)
 * [Remote Local](core-concepts/remote-local.md)
 * [Config & Secret Management](core-concepts/config-and-secret-management.md)
-* [Self Managed Services](core-concepts/self-managed-services.md)
+* [Backing Services](core-concepts/backing-services.md)
 * [Development Inner Loops](core-concepts/development-inner-loops.md)
 
 ## Reference
