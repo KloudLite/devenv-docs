@@ -23,7 +23,7 @@
 ## Reference
 
 * [Apps](reference/apps.md)
-* [Self Managed Services](reference/self-managed-services.md)
+* [Backing Services](reference/backing-services.md)
 * [Configs & Secrets](reference/configs-and-secrets.md)
 * [Domain Management](reference/domain-management.md)
 * [Routing](reference/routing.md)
