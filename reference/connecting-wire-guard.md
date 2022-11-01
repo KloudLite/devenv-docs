@@ -1,5 +1,7 @@
 # Connecting Wire-guard
 
+To connect to your workloads running in Kloudlite you can use a wireguard device. Here are the steps you need to follow to connect your wireguard.
+
 {% tabs %}
 {% tab title="Mac OSX" %}
 Step 1: Download wireguard app from Appstore
