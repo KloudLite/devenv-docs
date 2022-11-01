@@ -1,4 +1,4 @@
-# Connecting Wire-guard
+# Connecting Wireguard
 
 To connect to your workloads running in Kloudlite you can use a wireguard device. Here are the steps you need to follow to connect your wireguard.
 

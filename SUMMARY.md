@@ -36,7 +36,7 @@
   * [Managed Services](reference/kl-cli/managed-services.md)
   * [Tunnel](reference/kl-cli/tunnel.md)
   * [Service Intercept](reference/kl-cli/service-intercept.md)
-* [Connecting Wire-guard](reference/connecting-wire-guard.md)
+* [Connecting Wireguard](reference/connecting-wireguard.md)
 
 ## Attach Compute
 
