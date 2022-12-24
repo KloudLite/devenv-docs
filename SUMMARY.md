@@ -14,8 +14,8 @@
 
 ## Core concepts
 
-* [Software Development Loops](core-concepts/software-development-loops.md)
-* [Development Inner Loop](core-concepts/development-inner-loop.md)
+* [Software Development Loops](core-concepts/developer-experience-loops.md)
+* [Developer experience (DX) loop](core-concepts/developer-experience-dx-loop.md)
 * [Remote Local](core-concepts/remote-local.md)
 * [Remote Local with Tunnels](core-concepts/remote-local-with-tunnels.md)
 * [Config & Secret Management](core-concepts/config-and-secret-management.md)
