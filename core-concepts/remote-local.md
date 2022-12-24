@@ -1,5 +1,2 @@
-# Remote Local
+# Development in remote env
 
-In software development, the inner loop refers to writing, testing, and debugging code. "Remote local" usually refers to developing code locally on your computer but with the code running on a remote machine, such as a server or cloud-based development environment. This can be useful in cases where the code needs to be run in a specific environment or if you want to test code in a live production environment without making any changes to the production codebase.
-
-To work in a remote local development inner loop, you will typically use a combination of local development tools and a remote development environment. This might involve using a local code editor and debugging tools while running and testing the code on a remote machine. You can then change the code on your local machine, automatically transferring the changes to the remote machine for testing. This can save time and effort, as you don't need to upload and download code to test it continuously. It also allows you to take advantage of the resources and tools available on the remote machine, such as specialised libraries, backing services, dependent services or programming languages etc.

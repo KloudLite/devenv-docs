@@ -17,6 +17,7 @@
 * [Developer Experience loops](core-concepts/developer-experience-loops.md)
 * [Development Inner Loop](core-concepts/development-inner-loop.md)
 * [Remote Local](core-concepts/remote-local.md)
+* [Remote Local with Network Tunneling](core-concepts/remote-local-with-network-tunneling.md)
 * [Config & Secret Management](core-concepts/config-and-secret-management.md)
 * [Backing Services](core-concepts/self-managed-services.md)
 
