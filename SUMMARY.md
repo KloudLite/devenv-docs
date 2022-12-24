@@ -15,7 +15,7 @@
 ## Core concepts
 
 * [Developer Experience loops](core-concepts/developer-experience-loops.md)
-* [Inner Dev Loop](core-concepts/inner-dev-loop.md)
+* [Development Inner Loop](core-concepts/development-inner-loop.md)
 * [Remote Local](core-concepts/remote-local.md)
 * [Config & Secret Management](core-concepts/config-and-secret-management.md)
 * [Backing Services](core-concepts/self-managed-services.md)
