@@ -1,4 +1,4 @@
-# Remote Local with Network Tunneling
+# Remote Local with Tunnels
 
 Network tunnelling is a technique that allows you to create a secure connection between two computers over an insecure network, such as the internet. This can be useful when you want to access resources on a remote machine as if they were on your local machine or when you want to bypass network restrictions or security measures.
 

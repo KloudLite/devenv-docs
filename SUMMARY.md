@@ -14,10 +14,10 @@
 
 ## Core concepts
 
-* [Developer Experience loops](core-concepts/developer-experience-loops.md)
+* [Software Development Loops](core-concepts/software-development-loops.md)
 * [Development Inner Loop](core-concepts/development-inner-loop.md)
 * [Remote Local](core-concepts/remote-local.md)
-* [Remote Local with Network Tunneling](core-concepts/remote-local-with-network-tunneling.md)
+* [Remote Local with Tunnels](core-concepts/remote-local-with-tunnels.md)
 * [Config & Secret Management](core-concepts/config-and-secret-management.md)
 * [Backing Services](core-concepts/self-managed-services.md)
 
